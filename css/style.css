@@ -34,6 +34,8 @@ figcaption {
 }
 
 /*ID Selector only one */
-#logo {
+#logo { /*select elemente with id logo */
   background: aqua;
 }
+
+/*Descendent selector */
